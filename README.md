@@ -1,3 +1,3 @@
 # restaurant-monmartre
 spring, hibernate, mysql
-#project use hibernate
+#project use hibernate!!!
